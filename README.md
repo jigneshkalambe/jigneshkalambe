@@ -10,9 +10,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📈 GitHub Stats
-
-![jigneshkalambe's Stats](https://github-readme-stats.vercel.app/api?username=jigneshkalambe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jigneshkalambe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshkalambe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-###
